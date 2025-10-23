@@ -1,0 +1,1 @@
+Cet exercice a pour but de tester nos differentes connaissances sur ls commandes GIT 
